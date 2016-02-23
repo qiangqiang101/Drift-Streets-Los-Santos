@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="PlayerCash" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PlayerHighscore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PlayerLastVeh" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2016857647</Value>
+    </Setting>
+    <Setting Name="Key" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">F11</Value>
+    </Setting>
+    <Setting Name="PlayerLastTrack" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Airport.trk</Value>
+    </Setting>
+    <Setting Name="EXP" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PlayerLastMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Freeroam</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

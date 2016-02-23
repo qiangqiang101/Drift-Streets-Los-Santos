@@ -1,0 +1,14 @@
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\bin\Debug\DriftStreetLS.dll
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\bin\Debug\DriftStreetLS.pdb
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\bin\Debug\DriftStreetLS.xml
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\bin\Debug\ScriptHookVDotNet.dll
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\obj\Debug\DriftStreetLS.vbprojResolveAssemblyReference.cache
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\obj\Debug\DriftStreetLS.Resources.resources
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\obj\Debug\DriftStreetLS.vbproj.GenerateResource.Cache
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\obj\Debug\DriftStreetLS.dll
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\obj\Debug\DriftStreetLS.xml
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\obj\Debug\DriftStreetLS.pdb
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\bin\Debug\DriftStreetLS.dll.config
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\obj\Debug\Interop.WMPLib.dll
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\obj\Debug\DriftStreetLS.vbproj.ResolveComReference.cache
+D:\GTAV Mods\DriftStreetLS\DriftStreetLS\bin\Debug\INMNativeUI.dll
